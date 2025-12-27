@@ -1,4 +1,4 @@
-package Controler;
+package Controller;
 
 import implementation.GestionEmployeDB;
 import javafx.beans.property.SimpleDoubleProperty;
