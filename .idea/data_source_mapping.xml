@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/basedonne.sql" value="570a2dff-1384-45aa-ba6f-e021db4e6247" />
+    <file url="file://$PROJECT_DIR$/src/implementation/GestionEmployeDB.java" value="570a2dff-1384-45aa-ba6f-e021db4e6247" />
+  </component>
+</project>
