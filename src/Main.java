@@ -10,7 +10,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         // Assure-toi que Interface.fxml est sur le classpath (par ex. dans src/ et copié dans le dossier classes).
-        URL fxmlUrl = getClass().getResource("/Interface.fxml");
+        URL fxmlUrl = getClass().getResource("/view/Interface.fxml");
         if (fxmlUrl == null) {
             throw new IllegalStateException("Interface.fxml introuvable sur le classpath. Placez-le à la racine des ressources ou ajustez le chemin.");
         }
