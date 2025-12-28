@@ -133,8 +133,4 @@ Note métier: Vous avez indiqué que seuls 2 types d’employés peuvent être �
 - Lancement:
   - Exécutez `Main.java`. L’UI se lance et vous pouvez ajouter des employés.
 
-## Contribuer
-- Merci de soumettre des Pull Requests avec des descriptions claires.
-- Ajoutez des tests si vous modifiez la logique de calcul des salaires ou l’accès aux données.
-- Mettez à jour ce README si vous changez la structure.
 
